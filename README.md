@@ -1,2 +1,2 @@
 # HighSeaTower
-Platform game
+Platform game coded with JavaFX
